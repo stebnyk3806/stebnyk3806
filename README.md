@@ -39,6 +39,4 @@ Experienced in RobloxStudio technologies. I Spend most of my time coding outstan
 </div>
 
 ### Profile views counter 👁️‍🗨️
-[![Maksym Rudnyi profile views](https://u8views.com/api/v1/github/profiles/149003933/views/day-week-month-total-count.svg)](https://u8views.com/github/stebnyk3806)
-
-![](https://komarev.com/ghpvc/?username=stebnyk3806)
+![stebnyk3806 profile views](https://komarev.com/ghpvc/?username=stebnyk3806)
