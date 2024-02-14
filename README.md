@@ -6,10 +6,9 @@ Experienced in RobloxStudio technologies. I Spend most of my time coding outstan
 :mailbox: Reach me out!
 
 [![Static Badge](https://img.shields.io/badge/YouTube-e74c3c?style=flat&logo=youtube&logoColor=white&labelColor=e74c3c&link=https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3D8ho4Xp-9vqI%26t%3D24s)](https://m.youtube.com/watch?v=8ho4Xp-9vqI&t=24s)
-[![Mail Badge](https://img.shields.io/badge/-DemaKucy-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/@DemaKucy?si=rYeYSkEaREqugOCt) 
-[![Mail Badge](https://img.shields.io/badge/-DemaKucy-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/@DemaKucy?si=YETDFWm1lvKodZW9) 
-[![Linkedin Badge](https://img.shields.io/badge/-DemaKucy-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/DemaKucy/) 
-[![Mail Badge](https://img.shields.io/badge/-@DemaKucy-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/DemaKucy/) 
+[![Mail Badge](https://img.shields.io/badge/-DemaKucy-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=g3UdNniE5go)
+[![Mail Badge](https://img.shields.io/badge/-DemaKucy-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=zPMD_ah_5kA) 
+[![youtube Badge](https://img.shields.io/badge/-DemaKucy-0e76a8?style=flat&labelColor=0e76a8&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=XUZUoNq32Dc) 
 [![Mail Badge](https://img.shields.io/badge/-DemaKucy-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:Dema.Kucy@gmail.com)
 
 #### Top Technologies
