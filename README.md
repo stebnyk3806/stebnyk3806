@@ -17,9 +17,9 @@ Experienced in RobloxStudio technologies. I Spend most of my time coding outstan
 
 ### My Favorite Games
 
-[<img align="left" alt="ROBLOX" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][graphqllist]
+
+[![Mail Badge](https://img.shields.io/badge/-DemaKucy-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](https://www.bluestacks.com/ru/blog/bluestacks-roundups/best-roblox-games-ru.html)
+
 
 <br/>
 
