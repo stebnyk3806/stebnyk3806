@@ -17,9 +17,7 @@ Experienced in RobloxStudio technologies. I Spend most of my time coding outstan
 
 ### My Favorite Games
 
-
-[![Mail Badge](https://img.shields.io/badge/-DemaKucy-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](https://www.bluestacks.com/ru/blog/bluestacks-roundups/best-roblox-games-ru.html)
-
+[![roblox Badge](https://img.shields.io/badge/-GAMES-61DBFB?style=for-the-badge&labelColor=black&logo=roblox&logoColor=61DBFB)](https://www.bluestacks.com/ru/blog/bluestacks-roundups/best-roblox-games-ru.html)
 
 <br/>
 
