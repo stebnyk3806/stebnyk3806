@@ -14,11 +14,11 @@ Experienced in RobloxStudio technologies. I Spend most of my time coding outstan
 
 #### Top Technologies
 
-[![roblox Badge](https://img.shields.io/badge/-roblox-61DBFB?style=for-the-badge&labelColor=black&logo=roblox&logoColor=61DBFB)](https://roblox.com/) [![robloxstudio Badge](https://img.shields.io/badge/-robloxstudio-F0DB4F?style=for-the-badge&labelColor=black&logo=robloxstudio&logoColor=F0DB4F)](https://create.roblox.com/)) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![roblox Badge](https://img.shields.io/badge/-roblox-61DBFB?style=for-the-badge&labelColor=black&logo=roblox&logoColor=61DBFB)](https://roblox.com/) [![robloxstudio Badge](https://img.shields.io/badge/-robloxstudio-F0DB4F?style=for-the-badge&labelColor=black&logo=robloxstudio&logoColor=F0DB4F)](https://create.roblox.com/) 
 
-### Tutorials
+### My Favorite Games
 
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
+[<img align="left" alt="ROBLOX" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][graphqllist]
 
